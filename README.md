@@ -4,10 +4,10 @@
   <img src="res/banner.png" />
 </p>
 
-AWS が開催する開発者のための技術の祭典「AWS Dev Day 2022 Japan」では幅広く開発者の皆様から発表していただく「Call for Proposal」をプログラムに取り入れています。 みなさまが培われたご経験、知見、そしてノウハウをぜひこの場で共有していただけませんか？ ご応募をご検討いただける場合は下記募集要項をご確認いただき、[応募フォーム](https://github.com/aws-events/aws-dev-day-online-japan-2022-cfp/issues/new )にセッション情報を入力してください。また、ご応募された方のご連絡先などの情報を別フォームにご記入いただきます。予めご了承ください。ご応募いただいたのち、選考を経て採否を決定させていただきます。予めご了承ください。
+AWS が開催する開発者のための技術の祭典「AWS Dev Day 2022 Japan」では幅広く開発者の皆様から発表していただく「Call for Proposal」をプログラムに取り入れています。 みなさまが培われたご経験、知見、そしてノウハウをぜひこの場で共有していただけませんか？ ご応募をご検討いただける場合は下記募集要項をご確認いただき、[応募フォーム](https://github.com/aws-events/aws-dev-day-online-japan-2022-cfp/issues/new/choose )にセッション情報を入力してください。また、ご応募された方のご連絡先などの情報を別フォームにご記入いただきます。予めご了承ください。ご応募いただいたのち、選考を経て採否を決定させていただきます。予めご了承ください。
 
 
-:pencil: [セッション応募フォームはこちら](https://github.com/aws-events/aws-dev-day-online-japan-2022-cfp/issues/new)
+:pencil: [セッション応募フォームはこちら](https://github.com/aws-events/aws-dev-day-online-japan-2022-cfp/issues/new/choose)
 
 :rocket: [現在の応募済みセッション一覧はこちら](https://github.com/aws-events/aws-dev-day-online-japan-2022-cfp/issues)
 
