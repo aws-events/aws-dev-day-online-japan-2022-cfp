@@ -6,14 +6,6 @@ assignees:
   - khenovia
 body:
   - type: checkboxes
-    id: terms
-    attributes:
-      label: イベント登録規約、AWS 行動規範 Code of Conduct への同意 (必須)
-      description: セッションの応募にはイベント登録規約、および AWS 行動規範 Code of Conduct への同意が必要です
-      options:
-        - label: 私は、[イベント登録規約](https://aws.amazon.com/jp/events/terms/)、および [AWS 行動規範 Code of Conduct](https://aws.amazon.com/jp/codeofconduct/) を確認し、同意しました
-          required: true
-  - type: checkboxes
     id: session-title
     attributes:
       label: セッションタイトル (必須)
@@ -63,7 +55,6 @@ body:
         - Web バックエンド / サーバーサイド開発
         - モバイル / ネイティブアプリケーション開発
         - DevOps / Infrastructure as Code
-        - 機械学習モデル開発
         - その他
     validations:
       required: true
