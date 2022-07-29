@@ -17,7 +17,7 @@ body:
     attributes:
       label: 連絡先の登録 (必須)
       options:
-        - label: 私は、[こちらのフォーム](https://pages.awscloud.com/JP_devday_2022_savethedate.html)に必要事項を記入してsubmitしました
+        - label: 私は、[こちらのフォーム](https://pages.awscloud.com/2022_DevDay_CfP_registration.html)に必要事項を記入してsubmitしました
           required: true
   - type: textarea
     id: session-abstract
