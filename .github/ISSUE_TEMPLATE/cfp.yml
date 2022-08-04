@@ -36,6 +36,16 @@ body:
     validations:
       required: false
   - type: dropdown
+    id: session-duration
+    attributes:
+      label: セッション時間
+      description: 下記よりご希望のセッションの長さをお選びください
+      options:
+        - 20分
+        - 45分
+    validations: 
+      required: true
+  - type: dropdown
     id: session-level
     attributes:
       label: 想定受講者の知識レベル（必須）
