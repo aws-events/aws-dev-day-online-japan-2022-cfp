@@ -71,15 +71,11 @@ AWS が開催する開発者のための技術の祭典「AWS Dev Day 2022 Japan
 A. 可能です。また、2回目以降のCFP では連絡先の登録は不要です。
 
 
-### 過去のAWS Dev Day Online CFP採択セッションの例 (AWS Dev Day Online Japan 2020)
+### 過去のAWS Dev Day Online CFP採択セッションの例 (AWS Dev Day Online Japan 2021)
 
 [こちらから2021年開催の同様のイベントでのCFP採択セッション](https://aws.amazon.com/jp/about-aws/events/2021/devday/)をご覧いただくことができます。ぜひご活用ください
 
 また、[こちらからAWS Dev Day Online Japan (2021)のもようをダイジェスト](https://youtu.be/EeBQWTV4skM)でご覧いただくことができます。
-
-:pencil: [セッション応募フォームはこちら](https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/new)
-
-:rocket: [現在の応募済みセッション一覧はこちら](https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues)
 
 皆様のご応募を心よりお待ちしております
 
